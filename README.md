@@ -1,6 +1,6 @@
-# Image Processing and Vision Project
+# Image Registration and 3D Vision
 
-This repository contains my implementation of an Image Processing and Vision project focused on 2D image registration and RGB-D 3D registration.
+This repository contains an image processing and computer vision project focused on 2D image registration, homography estimation, RGB-D processing and 3D point cloud registration.
 
 The project has two main parts:
 
@@ -45,7 +45,7 @@ The final result is a set of point clouds aligned in a common template coordinat
 ## Repository Structure
 
 ```text
-PIV repository/
+Image-Registration-and-3D-Vision/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
@@ -153,4 +153,4 @@ The original full datasets are not included in this repository due to file size 
 
 ## Notes
 
-The repository focuses on the final implementation and reduced/generated result outputs. The original full datasets and cache files are excluded to keep the repository size manageable.
+The repository focuses on the final implementation and reduced result outputs. The original full datasets and cache files are excluded to keep the repository size manageable.
